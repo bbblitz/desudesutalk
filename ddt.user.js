@@ -7,7 +7,8 @@
 // @include      http://dobrochan.ru/*/*
 // @include      http://dobrochan.org/*/*
 // @include      http://inach.org/*/*
-// @include      https://8chan.co/*/*
+// @include      https://8chan.co/*/*/*
+// @include	 https://hatechan.co/*/*/*
 // @include      https://lainchan.org/*/*
 // @include      http://iichan.hk/*/*
 // @include      http://2-ch.su/*/*
